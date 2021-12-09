@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## This is a sub heading created locally
+## this is a sub-heading created directly from GitHub
